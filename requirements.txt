@@ -1,0 +1,9 @@
+yt-dlp==2024.3.10
+openai-whisper==20231117
+torch==2.2.0
+youtube_transcript_api==0.6.2
+openai==0.28.0
+elevenlabs==0.2.27
+moviepy==1.0.3
+Pillow==10.2.0
+requests==2.31.0 
